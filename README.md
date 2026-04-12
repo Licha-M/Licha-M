@@ -1,20 +1,31 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48¢er=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Chijioke+Okorji!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=1F4E78&duration=4000&lines=¡Hola!+👋;Soy+Licha;Programador" />
 </h1>
 
-### Un ingeniero de software completo apasionado por crear aplicaciones web hermosas, funcionales y centradas en el usuario.
+### Técnico en Informática | Soporte IT & Desarrollo Web
 
-- 🌱 Actualmente estoy aprendiendo **[Diseño de sistemas](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
-- 💬 Pregúntame sobre **Java, Node.js, React...o cualquier cosa [aquí](https://github.com/{USERNAME}/{USERNAME}/issues)**
+Especializado en **hardware**, **robótica** y **desarrollo web fullstack**. Apasionado por la optimización de rendimiento y soluciones integrales.
+
+- 🌱 Actualmente estoy aprendiendo **Arquitectura de Sistemas**
+- 💬 Pregúntame sobre **C, Arduino, JavaScript, PHP, MySQL, Hardware...o cualquier cosa tech**
 
 <br>
+
 ## 🛠️ Lenguajes y herramientas
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,git,java,cs" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,vscode" />
+</p>
+
 <br>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=java,c,git,cs" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,mysql" />
-</p>
+## 🚀 Proyectos destacados
+
+- **Robot Autónomo con Arduino** : Sistema de control autónomo con programación en C/Arduino y modelado CAD
+- **Sitios Webs Multipropósito** : Desarrollo fullstack con HTML, CSS, JavaScript, PHP y MySQL
+- **Simulador de Procesador 32-bits** : Arquitectura digital en Logisim Evolution
+
+---
+
+**Buenos Aires, Argentina 🇦🇷**
