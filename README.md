@@ -14,7 +14,7 @@ Especializado en **hardware**, **robótica** y **desarrollo web fullstack**. Apa
 ## 🛠️ Lenguajes y herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,git,java,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,c,git,java,cs,arduino,net,python" />
   <img src="https://skillicons.dev/icons?i=windows,linux,vscode" />
 </p>
 
