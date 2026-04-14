@@ -12,11 +12,11 @@
 
 Especializado en **desarrollo web fullstack** y **programación**. Apasionado por la optimización de rendimiento y soluciones integrales.
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=400&height=50&lines=AMO+JAVASCRIPT;❤️+JS+DEVELOPER" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=400&height=50&lines=I+❤️+JAVASCRIPT;❤️+JS+DEVELOPER" />
 </p>
 
-- 🌱 Actualmente estoy aprendiendo **Arquitectura de Sistemas**
-- 💬 Pregúntame sobre **HTML, CSS, JavaScript, PHP, MySQL...o cualquier cosa**
+-  Actualmente estoy aprendiendo **Arquitectura de Sistemas**
+-  Pregúntame sobre **HTML, CSS, JavaScript, PHP, MySQL...o cualquier cosa**
 
 <br>
 
