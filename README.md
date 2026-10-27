@@ -44,5 +44,6 @@ Especializado en **desarrollo web fullstack** y **programación**. Apasionado po
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Licha-M&show_icons=true&theme=tokyonight&border_radius=15&title_color=6b3cfa&icon_color=825bfc&text_color=3c55fa&bg_color=0D1117" height="180"/>
+  <img src="https://licha-sigma.vercel.app/api?username=Licha-M&show_icons=true&theme=tokyonight&border_radius=15&title_color=6b3cfa&icon_color=825bfc&text_color=3c55fa&bg_color=0D1117" height="180"/>
 </div>
+
